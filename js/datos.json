@@ -1,0 +1,20 @@
+[
+  {
+    "titulo": "INERCIA",
+    "descripcion": "“Inercia” es un entorno virtual inmersivo que explora la tensión entre lo estático y lo dinámico dentro de una estructura brutalista. Desde el centro de la escena, el usuario experimenta vértigo, intriga y desorientación, mientras el espacio rígido parece cobrar vida a través de transformaciones lumínicas y movimientos inesperados. La obra se construye a partir de la idea de que incluso lo inmutable puede transformarse, reflejando la resistencia del cuerpo (y del espacio) al cambio.",
+   "detalles": "Proyecto universitario · 3.er año · 2025",
+"imagen": "img/inercia.png"
+  },
+  {
+    "titulo": "Between Tiles",
+    "descripcion": "Diseñé y desarrollé, junto a mi equipo, una experiencia audiovisual inmersiva centrada en la idea del vidrio como límite entre dos mundos. El proyecto combina modelado y animación 3D, diseño sonoro y narrativa espacial para construir una secuencia donde criaturas orgánicas atraviesan progresivamente una superficie de glass tiles, transformando la percepción del espacio. Durante el proceso optimizamos simulaciones, materiales y renders, resolviendo desafíos técnicos sin perder la intención narrativa.",
+   "detalles": "Proyecto universitario · 3.er año · 2025",
+"imagen": "img/between-tiles.png"
+  },
+  {
+    "titulo": "TEN-TON",
+    "descripcion": "Comenzamos este proyecto con una única consigna: investigar en profundidad una referencia natural. Elegimos el pulpo y, a partir de esta investigación, nos enfocamos especialmente en sus tentáculos y en su característica más distintiva: la flexibilidad. A partir de allí, diseñamos módulos y formas que aportaran a la idea de este separador, culminando en un proyecto que nos cautivó tanto a nosotras como a nuestros profesores.",
+   "detalles": "Proyecto universitario · 2.º año · 2024",
+"imagen": "img/ten-ton.jpg"
+  }
+]
